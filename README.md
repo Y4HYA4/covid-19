@@ -1,6 +1,6 @@
 # COVID-19-Tunisia
-Netlify domain generator: https://pensive-brown-293406.netlify.app
-Covid-19-Tunisia stats and summary.
+- Netlify domain generator: https://pensive-brown-293406.netlify.app
+- Covid-19-Tunisia stats and summary.
 
 # Tech Stack
 - React
