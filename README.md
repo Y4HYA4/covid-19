@@ -12,7 +12,7 @@ Covid-19-Tunisia stats and summary.
 [Open Disease Data](https://disease.sh/)
 
 # How to Run ?
-## This is an open source project that you can use for your country with some simple reconfiguration steps:
+### This is an open source project that you can use for your country with some simple reconfiguration steps:
  Using yarn as our  software packaging system
    - yarn start
    - Open Browser (localhost:3000)
