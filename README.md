@@ -23,4 +23,4 @@ Covid-19-Tunisia stats and summary.
  #### Netlify is a cloud computing company that offers hosting and serverless backend services for web applications and static websites.
    - It's a user-friendly and easy to use, host your stuff in simple GUI interactions.
 
-[![Netlify Status]()](https://app.netlify.com)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d31443c4-f38f-4ced-bf3b-443f255dcf8a/deploy-status)](https://app.netlify.com)
