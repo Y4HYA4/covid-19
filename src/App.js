@@ -44,7 +44,7 @@ function App() {
 
       <div className="footer">
         Developed by{" "}
-        <a href="https://github.com/Y4HYA4">Yahya Abulhaj</a>
+          <a href=" ">Rishab Kumar ❤️ </a>
       </div>
     </div>
   );
