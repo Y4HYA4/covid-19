@@ -44,7 +44,7 @@ function App() {
 
       <div className="footer">
         Developed by{" "}
-          <a href=" ">Yahya Abulhaj </a>
+          <a href=" ">Yahya  </a>
       </div>
     </div>
   );
